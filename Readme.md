@@ -1,3 +1,9 @@
+# Android Owner Apk Translated Edition
+- Update In-App Language
+- more coming soon
+
+
+
 # Android Owner
 
 [English](Readme-en.md)
