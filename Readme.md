@@ -1,6 +1,10 @@
 # Android Owner Apk Translated Edition
 - Update In-App Language
-- more coming soon
+- done.
+
+The project has already been translated by the owner.
+
+Project no longer maintained 
 
 
 
